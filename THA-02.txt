@@ -1,4 +1,4 @@
-To list all Databases -
+git To list all Databases -
 
 => \l
 To quit psql CLI -
